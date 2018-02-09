@@ -1,0 +1,11 @@
+
+{
+    "name": "IOLabs/yith-woocommerce-catalog-mode",
+    "description": "Plugin mirror for: yith-woocommerce-catalog-mode",
+    "license": "GPL",
+    "type": "wordpress-plugin",
+    "require": {
+        "php": ">=5.3.2",
+        "composer/installers": "v1.0.6"
+    }
+}
